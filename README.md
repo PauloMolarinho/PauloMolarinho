@@ -20,7 +20,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="80" height="60"/>
 </div>
 
-### 🌍Connect with me:
+### 🌍 Connect with me:
 
 <div>
 <a href="https://linkedin.com/in/paulo-molarinho-ferreira-de-mattos-090088227"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="80" height="60"/></a>
