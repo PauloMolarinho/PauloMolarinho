@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Paulo Molarinho, I am a FullStack developer
 
-### 🌍 Working with...
+### 📝 Working with...
 
 
 <div>
@@ -18,4 +18,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="80" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="80" height="60" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="80" height="60"/>
+</div>
+
+### 🌍Connect with me:
+
+<div>
+<a href="linkedin.com/in/paulo-molarinho-ferreira-de-mattos-090088227"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="80" height="60"/></a>
+<a href="mailto:paulofmmattos@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png?w=360" width="65" height="60"/></a>
 </div>
